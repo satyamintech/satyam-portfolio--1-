@@ -8,8 +8,8 @@ export const profile = {
   location: 'Patna, Bihar, India',
   email: 'satyam.ac.in@gmail.com',
   phone: '+91 81029 23947',
-  github: 'https://github.com/',
-  linkedin: 'https://linkedin.com/',
+  github: 'https://github.com/satyamintech',
+  linkedin: 'https://linkedin.com/in/satyam-jha01',
   resumeUrl: '/satyam_cv (1).pdf',
   summary: `Full Stack Developer with hands-on experience building scalable web applications using React.js, Node.js, Express.js, PostgreSQL, and MongoDB. Skilled in developing REST APIs, implementing JWT authentication, integrating AI-powered features using Gemini and OpenAI APIs, and building responsive user interfaces. Strong foundation in Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks, OOP, and Software Engineering — passionate about solving real-world problems through clean architecture, scalable backend systems, intuitive experiences, and AI integration.`,
   taglines: [
